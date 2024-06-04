@@ -1,7 +1,8 @@
-<img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" alt="devGif" align="center" width="1000" height="550">
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Bonjour, je suis Nicolas Morvant</h1> <br/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Bienvenue+sur+mon+profil+GitHub+!;Je+suis+un+d%C3%A9veloppeur+passionn%C3%A9;et+enthousiaste+%C3%A0+l'id%C3%A9e+;de+collaborer+%C3%A0+de+nouveaux+projets.)](https://git.io/typing-svg)  
+<h2 align="center"> <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Bienvenue+sur+mon+profil+GitHub+!;Je+suis+un+d%C3%A9veloppeur+passionn%C3%A9;et+enthousiaste+%C3%A0+l'id%C3%A9e++de+collaborer+%C3%A0+de+nouveaux+projets.">
+</h2>
 
 <div align="center">🔭 Je travaille actuellement sur mon portfolio et j'apprends Symfony 7 🌱</div> <br/>
 
