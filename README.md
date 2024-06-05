@@ -52,7 +52,10 @@
 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  
+
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
 
@@ -66,7 +69,7 @@
 
 - **OS**:  <br/>
 
-  ![Xubuntu](https://img.shields.io/badge/Xubuntu-0078D6?style=for-the-badge&logo=xfce&logoColor=white)
+  <img src="https://img.shields.io/badge/Xubuntu-0078D6?style=for-the-badge&logo=xfce&logoColor=white" alt="Xubuntu">
 
 
 
