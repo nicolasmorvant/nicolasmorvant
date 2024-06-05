@@ -66,7 +66,7 @@
 
 - **OS**:  <br/>
 
-  <img src="https://img.shields.io/badge/Xubuntu-0078D6?style=for-the-badge&logo=xubuntu&logoColor=white" alt="Xubuntu">
+  ![Xubuntu](https://img.shields.io/badge/Xubuntu-0078D6?style=for-the-badge&logo=xfce&logoColor=white)
 
 
 
