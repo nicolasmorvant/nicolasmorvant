@@ -86,7 +86,7 @@ __EN COURS DE DÉVELOPPEMENT__
 ## 📫 Me Contacter
 [![nicolas.morvant@tuta.io](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:nicolas.morvant@tuta.io)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasmorvant/)
-[![Discord]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white))](nicolasmorvant)
+[![Discord]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](nicolasmorvant)
 <br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Merci+de+visiter+mon+profil+!+;N'h%C3%A9sitez+pas+%C3%A0+explorer+mes+projets+;et+%C3%A0+me+contacter.">
