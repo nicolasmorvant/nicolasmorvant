@@ -74,13 +74,14 @@
 
 ## 📈 Projets
 
-### [Projet 1: Portfolio](https://github.com/nicolasmorvant/portfolio)
-Un site web de portfolio pour présenter mes travaux et compétences.
+
 
 <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website UP">
 
 ## 📝 Portfolio
-__EN COURS DE DÉVELOPPEMENT__
+Un site web pour présenter mes travaux et mes compétences.
+
+### [Portfolio](https://github.com/nicolasmorvant/portfolio)
 
 ## 📫 Me Contacter
 [![nicolas.morvant@tuta.io](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:nicolas.morvant@tuta.io)
