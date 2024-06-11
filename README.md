@@ -78,7 +78,7 @@
 ### [Projet 1: Portfolio](https://github.com/nicolasmorvant/portfolio)
 Un site web de portfolio pour présenter mes travaux et compétences.
 
-__EN COURS DE DÉVELOPPEMENT__
+[Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 
 ## 📝 Portfolio
 __EN COURS DE DÉVELOPPEMENT__
