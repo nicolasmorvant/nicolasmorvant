@@ -72,7 +72,6 @@
   <img src="https://img.shields.io/badge/Xubuntu-0078D6?style=for-the-badge&logo=xfce&logoColor=white" alt="Xubuntu">
 
 
-
 ## 📈 Projets
 
 ### [Projet 1: Portfolio](https://github.com/nicolasmorvant/portfolio)
@@ -87,6 +86,8 @@ __EN COURS DE DÉVELOPPEMENT__
 [![nicolas.morvant@tuta.io](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:nicolas.morvant@tuta.io)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasmorvant/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/nicolasmorvant)
+
+<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me anything">
 
 <br/><br/>
 
