@@ -11,7 +11,7 @@
   </a>
 </h2>
 <br/>
-<div align="center">🔭 Je travaille actuellement sur mon portfolio et j'apprends Symfony 7 🌱</div> 
+<div align="center">🔭 Je travaille actuellement sur un projet React et j'apprends Symfony 7 🌱</div> 
 <br/>
 
 ## 🔧 Compétences
