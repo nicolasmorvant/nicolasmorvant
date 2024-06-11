@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="devGif2" align="center" width="1000" height="640">
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="devGif2" align="center" width="1000" height="640" loading="eager">
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="handWaves"> 
