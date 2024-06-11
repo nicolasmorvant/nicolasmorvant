@@ -77,7 +77,7 @@
 
 ## 📝 Portfolio
 Un site web pour présenter mes travaux et mes compétences.
-### [Voir le portfolio](https://github.com/nicolasmorvant/portfolio) 
+### [Voir le portfolio](https://nicolasmorvant.github.io/portfolio/)
 <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website UP">
 
 ## 📫 Me Contacter
