@@ -81,7 +81,6 @@ Un site web pour présenter mes travaux et mes compétences.
 <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website UP">
 
 ## 📫 Me Contacter
-[![nicolas.morvant@tuta.io](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:nicolas.morvant@tuta.io)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasmorvant/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/nicolasmorvant)
 
